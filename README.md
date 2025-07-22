@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI project analyzes agriculture sales data across various products and categories in the US. The goal is to extract key insights related to sales trends, product performance, and profitability across time periods and categories like Fruits, Herbs, and Vegetables.
+This Power BI project visualizes and analyzes US agriculture sales data across three main categories: Fruits, Herbs, and Vegetables. It highlights key metrics like total sales, quantity sold, profit, and profit margin while uncovering trends across months and products. It aims to help stakeholders quickly identify top-performing products, seasonal patterns, and areas for business improvement using data-driven insights.
 
 ---
 
