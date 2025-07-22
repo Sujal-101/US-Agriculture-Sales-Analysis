@@ -1,7 +1,5 @@
 # 🌾 US Agriculture Sales Dashboard - Power BI Project
 
-![Dashboard Preview](./your-dashboard-image.png) <!-- Replace with actual path or GitHub image URL -->
-
 ## 📌 Project Overview
 
 This Power BI project analyzes agriculture sales data across various products and categories in the US. The goal is to extract key insights related to sales trends, product performance, and profitability across time periods and categories like Fruits, Herbs, and Vegetables.
@@ -15,23 +13,27 @@ This Power BI project analyzes agriculture sales data across various products an
 - **Total Profit**: $338.85K  
 - **Profit Margin**: 31.01%
 
+---
+## 📌 Project Goals
+
+- Understand seasonal trends in agriculture sales
+- Identify high-performing and underperforming products
+- Visualize and monitor category-wise performance
+- Provide actionable insights for business optimization
+
+---
+
 ### 💡 Key Insights:
 - **Fruits** lead in total quantity sold.
-- **Highest monthly sales** observed in May, August, and December.
+- **Highest monthly sales** observed in March, July, and December.
 - **Herbs like Rosemary and Tarragon** contribute high profits.
 - **Profit margin** is consistently maintained around 31% across products.
 - **February** shows the lowest monthly sales — a seasonal opportunity for improvement.
 
 ---
+## Model View
 
-## 📁 Dataset Used
-
-- Category: Fruits, Vegetables, Herbs
-- Fields: Product Name, Quantity Sold, Total Sales, Total Profit, Profit Margin %, Month, Year
-
-*(Dataset is fictional or sourced from public domain for learning purpose)*
-
----
+<img src="Model View.jpg" width=1000>
 
 ## 🛠 Tools & Features
 
@@ -59,34 +61,10 @@ This Power BI project analyzes agriculture sales data across various products an
 
 ---
 
-## 📌 Project Goals
-
-- Understand seasonal trends in agriculture sales
-- Identify high-performing and underperforming products
-- Visualize and monitor category-wise performance
-- Provide actionable insights for business optimization
-
----
-
-## 🖼 Sample Visual
-
-> ![US Agriculture Dashboard](./your-dashboard-image.png)  
-> *(Replace with the actual path or GitHub-hosted image)*
+📌 Overall Recommendations:
+🌱 Invest more in high-margin products like Tomatoes, Lettuce, and Herbs (Tarragon, Oregano).
+📈 Explore reasons for February's sales dip and address supply/seasonal gaps.
+💬 Target marketing on fruits as they are the volume drivers.
+🧪 Consider product bundling strategies for low-selling products with high performers.
 
 ---
-
-## 🤝 Let's Connect!
-
-If you liked this project or have suggestions, feel free to connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) <!-- Replace with your link -->
-- [Portfolio](https://yourportfolio.com) <!-- Optional -->
-
----
-
-## 📁 License
-
-This project is for educational and portfolio purposes only. Dataset is either publicly available or simulated.
-
----
-
