@@ -33,7 +33,7 @@ This Power BI project analyzes agriculture sales data across various products an
 ---
 ## Model View
 
-<img src="Model View.jpg" width=1000>
+<img src="Images/Model View.jpg" width=1000>
 
 ## 🛠 Tools & Features
 
