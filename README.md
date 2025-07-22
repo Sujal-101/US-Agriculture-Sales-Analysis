@@ -62,9 +62,9 @@ This Power BI project analyzes agriculture sales data across various products an
 ---
 
 📌 Overall Recommendations:
--🌱 Invest more in high-margin products like Tomatoes, Lettuce, and Herbs (Tarragon, Oregano).
--📈 Explore reasons for February's sales dip and address supply/seasonal gaps.
--💬 Target marketing on fruits as they are the volume drivers.
--🧪 Consider product bundling strategies for low-selling products with high performers.
+- 🌱 Invest more in high-margin products like Tomatoes, Lettuce, and Herbs (Tarragon, Oregano).
+- 📈 Explore reasons for February's sales dip and address supply/seasonal gaps.
+- 💬 Target marketing on fruits as they are the volume drivers.
+- 🧪 Consider product bundling strategies for low-selling products with high performers.
 
 ---
