@@ -14,7 +14,7 @@ This Power BI project visualizes and analyzes US agriculture sales data across t
 - **Profit Margin**: 31.01%
 
 ---
-## 📌 Project Goals
+## 🎯 Project Goals
 
 - Understand seasonal trends in agriculture sales
 - Identify high-performing and underperforming products
@@ -61,7 +61,7 @@ This Power BI project visualizes and analyzes US agriculture sales data across t
 
 ---
 
-📌 Overall Recommendations:
+## 📝 Overall Recommendations:
 - 🌱 Invest more in high-margin products like Tomatoes, Lettuce, and Herbs (Tarragon, Oregano).
 - 📈 Explore reasons for February's sales dip and address supply/seasonal gaps.
 - 💬 Target marketing on fruits as they are the volume drivers.
