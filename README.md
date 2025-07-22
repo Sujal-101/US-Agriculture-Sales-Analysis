@@ -1,4 +1,4 @@
-# 🌾 US Agriculture Sales Dashboard - Power BI Project
+# 🌾 US Agriculture Sales - Power BI Project
 
 ## 📌 Project Overview
 
