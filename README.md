@@ -68,3 +68,9 @@ This Power BI project visualizes and analyzes US agriculture sales data across t
 - 🧪 Consider product bundling strategies for low-selling products with high performers.
 
 ---
+
+## Sample Dashboard
+
+<img src="Images/Dashboard.jpg" width=1000>
+
+<img src="Images/map.jpg" width=1000>
